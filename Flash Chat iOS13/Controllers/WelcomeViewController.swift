@@ -9,7 +9,8 @@
 import UIKit
 
 class WelcomeViewController: UIViewController {
-
+    //this is first page
+    
     @IBOutlet weak var titleLabel: UILabel!
     
     override func viewDidLoad() {
